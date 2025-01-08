@@ -18,7 +18,7 @@ I'm a data science enthusiast, focusing on data analysis and visualization using
 
 ---
 
-## 🦋 Final Year Project
+## 🦋 Previous Project
 **Project Title: Predictive modelling of football match results: a home vs. away perspective** 
    - Techniques used: **Support Vector Machine (SVM)**, **Logistic Regression**, and **Random Forest**.  
    - **Random Forest Model** achieved **99% training accuracy** and **58.66% testing accuracy** in predicting match outcomes.  
@@ -30,7 +30,4 @@ I'm a data science enthusiast, focusing on data analysis and visualization using
       [Predictive modelling of football match results: a home vs. away perspective ](https://github.com/damiarohisyam/FYP_Football-Match-Prediction/blob/main/1211304435_2689_Final%20Year%20Project.ipynb)
 
 ---
-
-## 🦋 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/nur-damia-rohisyam-263528342)
 
