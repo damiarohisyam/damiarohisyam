@@ -11,8 +11,8 @@ I'm a data science enthusiast, focusing on data analysis and visualization using
    - Techniques used: **Support Vector Machine (SVM)**, **Logistic Regression**, and **Random Forest**.  
    - **Random Forest Model** achieved **99% training accuracy** and **58.66% testing accuracy** in predicting match outcomes.  
    - This project demonstrates my ability to handle large datasets, implement machine learning algorithms, and evaluate model performance.
-   - Additionally, I provided valuable insights into the influence of home vs. away conditions on football match outcomes, which could be used by analysts or teams to better prepare for upcoming matches.
-   - By evaluating and comparing various machine learning techniques, I highlighted the strengths and limitations of each model in predicting football match results.
+   - It also provides insights into how home vs. away conditions impact match outcomes, useful for analysts and teams.
+   - By comparing different models, I highlighted their strengths and limitations in predicting football match results.
    - **Link to Full Project:**  
       Explore the project on my GitHub:  
       [Predictive modelling of football match results: a home vs. away perspective ](https://github.com/damiarohisyam/FYP_Football-Match-Prediction/blob/main/1211304435_2689_Final%20Year%20Project.ipynb)
