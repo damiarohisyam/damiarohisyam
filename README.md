@@ -2,12 +2,12 @@
 
 ![Header Image](https://github.com/damiarohisyam/images/blob/edd0533b62daef683274e4e59cb14a55e0b74011/header.png)
 
-I work with data analysis and visualization using tools like Python, Power BI, and Tableau to gain insights and make smart decisions. Check out my projects and feel free to reach out!
+I'm a data science enthusiast, focusing on data analysis and visualization using tools like Python, Power BI, and Tableau. I enjoy exploring data to find meaningful insights. Feel free to browse through my projects!
 
 ---
 
 ## 🦋 Final Year Project
-- **Football Match Prediction: Home vs. Away Analysis Using Machine Learning**  
+- ** Project Title: Football Match Prediction: Home vs. Away Analysis Using Machine Learning**  
    - Techniques used: **Support Vector Machine (SVM)**, **Logistic Regression**, and **Random Forest**.  
    - **Random Forest Model** achieved **99% training accuracy** and **58.66% testing accuracy** in predicting match outcomes.  
    - This project demonstrates my ability to handle large datasets, implement machine learning algorithms, and evaluate model performance.
