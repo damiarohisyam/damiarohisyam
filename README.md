@@ -13,7 +13,7 @@ I'm a data science enthusiast, focusing on data analysis and visualization using
    - This project demonstrates my ability to handle large datasets, implement machine learning algorithms, and evaluate model performance.
    - **Link to Full Project:**  
       Explore the project on my GitHub:  
-      [Football Match Prediction Final Year Project](https://github.com/damiarohisyam/FYP_Football-Match-Prediction/blob/main/1211304435_2689_Final%20Year%20Project.ipynb)
+      [Predictive modelling of football match results: a home vs. away perspective ](https://github.com/damiarohisyam/FYP_Football-Match-Prediction/blob/main/1211304435_2689_Final%20Year%20Project.ipynb)
 
 ---
 
