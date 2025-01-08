@@ -12,7 +12,7 @@ I'm a data science enthusiast, focusing on data analysis and visualization using
    - **Random Forest Model** achieved **99% training accuracy** and **58.66% testing accuracy** in predicting match outcomes.  
 - result: https://github.com/damiarohisyam/images/blob/5dbd7da1bf985863b12c10f8ebe9a98ace6861a8/result.jpg
    - This project demonstrates my ability to handle large datasets, implement machine learning algorithms, and evaluate model performance.
-   - ![Result](https://github.com/damiarohisyam/images/blob/5dbd7da1bf985863b12c10f8ebe9a98ace6861a8/result.jpg =400x200)
+![Result](https://github.com/damiarohisyam/images/blob/5dbd7da1bf985863b12c10f8ebe9a98ace6861a8/result.jpg =400x200)
 
 ---
 
