@@ -1,4 +1,4 @@
-# 🦋 Hi there 
+# 🦋 Hi there!
 
 ![Header Image](https://github.com/damiarohisyam/images/blob/edd0533b62daef683274e4e59cb14a55e0b74011/header.png)
 
@@ -26,7 +26,7 @@ I'm a **Data Science Graduate** and **Python Developer** with a passion for **Da
 
 ---
 
-## 💬 Let's Connect:
+## 🦋 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/nur-damia-rohisyam-263528342)
 
 
