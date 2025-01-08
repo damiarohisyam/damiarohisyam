@@ -2,7 +2,7 @@
 
 ![Header Image](https://github.com/damiarohisyam/images/blob/edd0533b62daef683274e4e59cb14a55e0b74011/header.png)
 
-I specialize in data analysis and visualization, utilizing tools like Python, Power BI, and Tableau to uncover insights and drive informed decisions. Explore my projects and feel free to connect! 
+I work with data analysis and visualization using tools like Python, Power BI, and Tableau to gain insights and make smart decisions. Check out my projects and feel free to reach out!
 
 ---
 
