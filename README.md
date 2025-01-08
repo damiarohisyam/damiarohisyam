@@ -35,3 +35,27 @@ I'm a data science enthusiast, focusing on data analysis and visualization using
 - [LinkedIn](https://www.linkedin.com/in/nur-damia-rohisyam-263528342)
 
 
+## 🦋 My Skills and Let's Connect:
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 45%;">
+
+    | **Category**               | **Skills & Tools**                                                                                                                                                                                                                                                                                               |
+    |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | **Data Visualization**      | ![Tableau](https://img.shields.io/badge/Tableau-%23F7A8B8?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-%23F7A8B8?style=for-the-badge&logo=powerbi&logoColor=white)                                                                                              |
+    | **Programming Languages**   | ![Python](https://img.shields.io/badge/Python-%23F7A8B8?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%23F7A8B8?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23F7A8B8?style=for-the-badge&logo=java&logoColor=white) |
+    | **Data Analysis & Databases**| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23F7A8B8?style=for-the-badge&logo=postgresql&logoColor=white) ![DB2](https://img.shields.io/badge/DB2-%23F7A8B8?style=for-the-badge&logo=ibm&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-%23F7A8B8?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+    | **Development Tools**       | ![VS Code](https://img.shields.io/badge/VS%20Code-%23F7A8B8?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-%23F7A8B8?style=for-the-badge&logo=eclipse&logoColor=white) ![Dev C++](https://img.shields.io/badge/Dev%20C%2B%2B-%23F7A8B8?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+    | **Project Management**      | ![Agile](https://img.shields.io/badge/Agile-%23F7A8B8?style=for-the-badge&logo=agile&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-%23F7A8B8?style=for-the-badge&logo=devops&logoColor=white)      |
+
+  </div>
+
+  <div style="width: 45%; text-align: center; padding-left: 20px;">
+    ## 🦋 Let's Connect:
+
+    Feel free to connect with me on LinkedIn:  
+    [LinkedIn Profile](https://www.linkedin.com/in/nur-damia-rohisyam-263528342)
+  </div>
+</div>
+
+
